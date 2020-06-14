@@ -5,7 +5,7 @@
   "main": "publisher.js",
 "scripts": {
     "publish": "node publisher.js",
-    "consumenode": "node consumer.js"
+    "consume": "node consumer.js"
   },
   "keywords": [],
   "author": "",
